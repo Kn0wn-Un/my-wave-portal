@@ -1,7 +1,6 @@
 # My wave portal
 
-
-A simple website where you can wave and send messages to me 🙌
+A simple website where you can wave and send messages to me 🙌 through the blockchain 🤯
 
 ### <a href="https://kn0wn-un.github.io/my-wave-portal/" target="_blank">View Demo</a>
 
